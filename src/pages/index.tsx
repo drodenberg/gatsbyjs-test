@@ -14,7 +14,7 @@ const IndexPage = () => {
       >
         olKit
       </p>
-      <h2>A component library built with React</h2>
+      <h2>A geospatial component library built with React</h2>
       <p>
         This is a pointless link to this repo
         <a href="https://github.com/drodenberg/gatsbyjs-test">
