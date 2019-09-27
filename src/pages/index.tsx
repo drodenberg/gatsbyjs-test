@@ -12,13 +12,13 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        olKit, components for geospatial web apps
+        olKit
       </p>
-      <h2>A component library build with React</h2>
+      <h2>A component library built with React</h2>
       <p>
-        This is a fork of{' '}
-        <a href="https://github.com/cvluca/gatsby-starter-markdown">
-          https://github.com/cvluca/gatsby-starter-markdown
+        This is a pointless link to this repo
+        <a href="https://github.com/drodenberg/gatsbyjs-test">
+        https://github.com/drodenberg/gatsbyjs-test
         </a>
       </p>
       <br />
