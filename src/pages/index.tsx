@@ -12,9 +12,9 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Gatsby Ant Design Docs Boilerplate
+        olKit, components for geospatial web apps
       </p>
-      <h2>A gatsby starter to create documentation websites</h2>
+      <h2>A component library build with React</h2>
       <p>
         This is a fork of{' '}
         <a href="https://github.com/cvluca/gatsby-starter-markdown">
